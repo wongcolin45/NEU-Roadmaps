@@ -1,4 +1,4 @@
-# Course Roadmap Visualizer
+# Graph NEU
 
 An interactive web application that helps Northeastern students visualize their course roadmap to graduation. Users can explore course prerequisites, track progress, and see branching paths for potential majors or minors.
 
