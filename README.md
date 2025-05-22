@@ -2,7 +2,7 @@
 
 An interactive web application that helps Northeastern students visualize their course roadmap to graduation. Users can explore course prerequisites, track progress, and see branching paths for potential majors or minors.
 
-Quick Demo:  https://vimeo.com/1081147967/1d5ee570a3?share=copy
+<img width="1708" alt="graphneu" src="https://github.com/user-attachments/assets/2b7be7e3-0394-4435-9fbe-f41132117770" />
 
 
 ## Features
